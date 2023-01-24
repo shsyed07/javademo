@@ -1,0 +1,5 @@
+public class mrits
+public static void main ()
+{
+// code for exam
+}
